@@ -1,0 +1,19 @@
+Graphql server with nodejs express and apollo server
+
+Intro:
+- few words about graphql
+- apollo server express deprecation
+- note about docker and prisma
+
+Todo:
+1.set a nodejs project npm init -y
+2.install deps and dev deps
+3.create scripts
+4.tsconfig and nodemon setup
+5.src folder structure
+6.set up running express server
+7.connect prisma + schema with running postgres in docker container
+8.typeDefs
+9.resolvers
+10.services
+11.optimization for queries with extract selection util

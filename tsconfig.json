@@ -12,6 +12,7 @@
       "outDir": "./build",
       "rootDir": ".",
       "baseUrl": ".",
+      "allowSyntheticDefaultImports": true,
       "paths": {
         "*": ["node_modules/*", "src/types/*"]
       }
